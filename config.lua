@@ -159,9 +159,9 @@ Garages = {
     },
     ["kartgarage"] = {
         label = "Kart Garage",
-        takeVehicle = vector3(-1304.7, -2732.42, 13.94),
-        spawnPoint = vector4(-1278.96, -2726.07, 13.94, 99.12),
-        putVehicle = vector3(-1293.83, -2730.05, 13.94),
+        takeVehicle = vector3(-1305.5, -2729.72, 14.09),
+        spawnPoint = vector4(-1298.69, -2731.24, 13.94, 151.27),
+        putVehicle = vector3(-1287.92, -2728.5, 13.94),
         showBlip = true,
         blipName = "Public Parking",
         blipNumber = 357,
