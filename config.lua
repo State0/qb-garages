@@ -229,8 +229,9 @@ Garages = {
         showBlip = false,
         blipName = "tate",
         blipNumber = 357,
-        type = 'public',                --public, job, gang, depot
+        type = 'gang',                --public, job, gang, depot
         vehicle = 'car',              --car, air, sea
+        job = "tatebrothers"
     },
     ["taxigarage"] = {
         label = "Taxi Garage",
