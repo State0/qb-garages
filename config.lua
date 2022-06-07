@@ -221,6 +221,17 @@ Garages = {
         type = 'public',                --public, job, gang, depot
         vehicle = 'car',              --car, air, sea
     },
+    ["tateworks"] = {
+        label = "Tate Brothers Paintworks Garage",
+        takeVehicle = vector3(839.96, -820.12, 26.32),
+        spawnPoint = vector4(841.04, -817.31, 26.33, 270.46),
+        putVehicle = vector3(841.37, -811.07, 26.29),
+        showBlip = false,
+        blipName = "tateworks",
+        blipNumber = 357,
+        type = 'public',                --public, job, gang, depot
+        vehicle = 'car',              --car, air, sea
+    },
     ["tate"] = {
         label = "Tate Hood",
         takeVehicle = vector3(-1123.27, -1616.12, 4.4),
