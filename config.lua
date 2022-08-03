@@ -168,6 +168,17 @@ Garages = {
         type = 'public',                --public, job, gang, depot
         vehicle = 'car'                 --car, air, sea
     },
+    ["driftgarage"] = {
+        label = "Drift Garage",
+        takeVehicle = vector3(1208.51, -3180.9, -7.96),
+        spawnPoint = vector4(1214.97, -3161.54, -8.16, 85.56),
+        putVehicle = vector3(1206.02, -3174.89, -8.16),
+        showBlip = false,
+        blipName = "Public Parking",
+        blipNumber = 357,
+        type = 'public',                --public, job, gang, depot
+        vehicle = 'car'                 --car, air, sea
+    },
     ["mxgarage"] = {
         label = "MX Track Parking",
         takeVehicle = vector3(1129.85, 2085.93, 55.7),
